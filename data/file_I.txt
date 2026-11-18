@@ -1,2 +1,2 @@
-Name: 
-Message: 
+Name: Simon Coles 
+Message: This is my test message
